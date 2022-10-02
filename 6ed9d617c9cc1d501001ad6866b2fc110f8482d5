@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "955fb1ba_1fa1154b",
+        "filename": "README.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 1020547
+      },
+      "writtenOn": "2022-10-02T23:49:03Z",
+      "side": 1,
+      "message": "This looks good to me",
+      "revId": "6ed9d617c9cc1d501001ad6866b2fc110f8482d5",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    }
+  ]
+}
