@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "2339f57b_165aaaa2",
+        "filename": "README.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 1020547
+      },
+      "writtenOn": "2022-10-02T23:37:21Z",
+      "side": 1,
+      "message": "Readme should be more exhaustive 😊",
+      "revId": "96f40c32d6f06af57020f8cb1c8fd65e8591c65e",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    }
+  ]
+}
